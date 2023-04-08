@@ -6,6 +6,6 @@ Exploratory Data Analysis on Tableau -
 
 https://public.tableau.com/app/profile/mayank.jain8455/viz/Sample-SuperstoreOrdersAlltabs/Rank
 
-Exploratory Data Analysis of Target stores using SQL -
+Exploratory Data Analysis using SQL -
 
 https://github.com/mayankjain281/Project_1_Target
