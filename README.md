@@ -1,5 +1,5 @@
 # Business_Analysis_of_Ecommerce_Store
-Concept used: Excel Dashboard combo chart for sales and profit, map chart for city sale, waterfall chart accumulated sale, calculated field for profit margin percentage
+Concept used: Excel Dashboard, Combo chart for sales and profit, map chart for city sale, Waterfall chart accumulated sale, Calculated field for profit margin percentage
 
 
 Exploratory Data Analysis on Tableau -
